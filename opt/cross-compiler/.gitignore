@@ -1,0 +1,9 @@
+# Everything is built here so no need to push them
+# You can even change the target in your export
+
+bin
+i686-elf
+include
+lib
+libexec
+share

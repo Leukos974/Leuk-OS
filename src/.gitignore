@@ -1,0 +1,6 @@
+# Ignore all build folder
+build*/*
+
+# Ignore all source folder, you can redowload and make
+gcc*
+binutils*
